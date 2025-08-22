@@ -28,3 +28,6 @@ Open `index.html` locally in a browser, or view via GitHub Pages once enabled.
 - Improve accessibility (aria-labels, keyboard navigation)  
 - Minify CSS and assets for production use  
 - Add contact form with basic validation
+
+
+<img width="1536" height="1024" alt="2" src="https://github.com/user-attachments/assets/0bdc4923-61c1-45dc-9fa4-a9fbef146276" />
