@@ -57,7 +57,7 @@ window.addEventListener("keydown", function(evt) {
   }
 })
 
-/*слайдер*/
+/* slider */
 // $(document).ready(function(){
 //   $('.slider__container').slick();
 // });
@@ -75,7 +75,7 @@ $('.slider-block').slick({
 
 
 
-// кнопка
+// button
 
 // $(function() {
 //     $('.idTop').click(function(){
@@ -103,7 +103,7 @@ button.on('click', (e) => {
 
 idTop();
 
-//   стрелка вниз
+// down arrow
 
 $(function(){
 $('#scroll_bottom').click(function(){
@@ -112,7 +112,7 @@ return false;
 });
 });
 
-// выпадающее меню
+// dropdown menu
 
 $('.menu-mobile').on('click', function(){
 if($('.menu-mobile').hasClass('menu-mobile-visible')){
